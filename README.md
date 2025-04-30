@@ -1,4 +1,4 @@
-##🧠 Predicting Customer Conversions with Linear Regression
+#🧠 Predicting Customer Conversions with Linear Regression
 This project demonstrates how to use Multiple Linear Regression to predict customer conversion rates from marketing campaign data. Built for beginners but with real-world structure and insights.
 
 📊 Dataset
